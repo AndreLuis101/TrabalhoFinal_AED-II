@@ -11,7 +11,7 @@ Este trabalho investiga a eficiência de diferentes estruturas de dados no armaz
 TRABALHOFINAL_AED-II/   
 │  
 │-- DATA/   
-│      └── dados  
+│      └── dados         ## DADOS DE DNA ##  
 |  
 │-- src/   
 │      └── main.py         ## EXECUTAVEL ##  

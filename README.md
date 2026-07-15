@@ -8,11 +8,11 @@ Este trabalho investiga a eficiência de diferentes estruturas de dados no armaz
 
 ## Estrutura do Projeto
 
-TRABALHOFINAL_AED-II/  
-│		
-|-- data/		
-│       ├── Base de dados		
-|		
-│-- src/		
-│      ├── main.py         ## EXECUTAVEL ##		
-`-- README.md  	
+TRABALHOFINAL_AED-II/
+│  
+│-- src/  
+│      ├── des_tables.py  
+│      ├── des_utils.py  
+│      ├── des_core.py  
+│      └── main.py         ## EXECUTAVEL ##  
+`-- README.md  

@@ -14,5 +14,5 @@ TRABALHOFINAL_AED-II/
 │  ├── Base de dados  
 |  
 │-- src/  
-│   ├── main.py         ## EXECUTAVEL ##  
+│  ├── main.py         ## EXECUTAVEL ##  
 `-- README.md  

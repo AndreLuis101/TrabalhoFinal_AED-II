@@ -1,6 +1,6 @@
 # TrabalhoFinal_AED-II
 
-Trabalho final realizado para a disciplina de AED-II. Professor Carlo Kleber, 2026.2]
+Trabalho final realizado para a disciplina de AED-II. Professor Carlo Kleber, 2026.2
 
 ## Objetivo
 

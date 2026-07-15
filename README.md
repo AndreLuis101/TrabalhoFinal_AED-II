@@ -10,9 +10,9 @@ Este trabalho investiga a eficiência de diferentes estruturas de dados no armaz
 
 TRABALHOFINAL_AED-II/  
 │  
-|--data/  
-│  ├── Base de dados  
+|-- data/  
+│       ├── Base de dados  
 |  
 │-- src/  
-│  ├── main.py         ## EXECUTAVEL ##  
+│      ├── main.py         ## EXECUTAVEL ##  
 `-- README.md  
